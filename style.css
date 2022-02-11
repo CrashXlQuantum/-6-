@@ -1,0 +1,36 @@
+*{
+    user-select: none;
+  }
+
+.content{
+    min-height: 500px;
+    background-color: #ddd;
+    text-align: center;
+}
+
+#text{
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+
+a{
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #aaa;
+    border: 1px solid black;
+}
+
+.block{
+    margin: 30px;
+}
+
+.bg{
+  width: 100%;
+  height: 100vh;
+
+  background:
+  url("https://snappygoat.com/o/6a294c6d4f62e1887c0eee9f6898e95a498f14df/Mixedcolor-background.jpg") center no-repeat;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
